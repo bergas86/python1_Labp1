@@ -29,25 +29,25 @@ Berikut adalah contoh penggunaan else di dalam kondisional Python:
 
 - Operator ini digunakan untuk membandingkan dua buah nilai. Operator ini juga dikenal dengan operator relasi dan sering digunakan untuk membuat sebuah logika atau kondisi.
 
-Opertor ini terdiri dari	:
+Opertor ini terdiri dari:
 
-| **Operator | **Simbol |
+|**Operator|**Simbol|
 -------------------------
-| Lebih Besar | > |
-| Lebih Kecil | < |
-| Sama Dengan | == |
-| Tidak Sama Dengan | != |
-| Lebih Besar Sama dengan | >= |
-| Lebih Kecil Sama dengan | <= |
+|Lebih Besar|>|
+|Lebih Kecil|<|
+|Sama Dengan|==|
+|Tidak Sama Dengan|!=|
+|Lebih Besar Sama dengan|>=|
+|Lebih Kecil Sama dengan|<=|
 
 ## Operator Logika
 
 - Operator logika digunakan untuk membuat operasi logika, seperti logika AND, OR, dan NOT.
 
-Operator logika terdiri dari	:
+Operator logika terdiri dari:
 
-| **Nama | **Simbol di Python |
+|**Nama|**Simbol di Python|
 -------------------------------
-| Logika AND | and |
-| Logika OR | or |
-| Negasi/Kebalikan | not |
+|Logika AND|and|
+|Logika OR|or|
+|Negasi/Kebalikan|not|
