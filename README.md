@@ -12,7 +12,7 @@ Berikut ini adalah contoh penggunaan **if** di Python:
 
 ![alt teks](2.png "Contoh gambar 2.0")
 
-2. Bila kondisi yang akan didefinisikan cukup banyak, Anda dapat menambah kondisi lain dengan menggunakan elif di bawah statement if dan sebelum statement else:
+2. Bila kondisi yang akan didefinisikan cukup banyak, Anda dapat menambah kondisi lain dengan menggunakan **elif** di bawah statement **if** dan sebelum statement **else**:
 
 Berikut adalah contoh penggunaan **elif** di dalam kondisional Python:
 
