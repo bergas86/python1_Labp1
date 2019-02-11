@@ -4,20 +4,21 @@
 ![alt teks](1.png "Contoh gambar 1.0")
 
 - Ada tiga macam kondisional di Python, yang dapat Anda gunakan untuk membangun alur logika untuk program Anda. 
-Python memiliki statement if, if..else, dan if..elif..else. 
+Python memiliki statement **if**, **if..else**, dan **if..elif..else**.
 
-Berikut ini adalah contoh penggunaan if di Python:
+1. Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percabangan berupa **if** yaitu bila suatu kondisi tertentu tercapa maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
+
+Berikut ini adalah contoh penggunaan **if** di Python:
 
 ![alt teks](2.png "Contoh gambar 2.0")
 
-- Untuk memeriksa kondisi yang tidak memenuhi kondisi utama. 
-Maka else digunakan untk menangani semua kondisi selain kondisi yang telah dituliskan.
+2. Bila kondisi yang akan didefinisikan cukup banyak, Anda dapat menambah kondisi lain dengan menggunakan elif di bawah statement if dan sebelum statement else:
 
-Berikut adalah contoh penggunaan else di dalam kondisional Python:
+Berikut adalah contoh penggunaan **elif** di dalam kondisional Python:
 
 ![alt teks](3.png "Contoh gambar 3.0")
 
-- Bila kondisi yang akan didefinisikan cukup banyak, Anda dapat menambah kondisi lain dengan menggunakan elif di bawah statement if dan sebelum statement else:
+3. Untuk memeriksa kondisi yang tidak memenuhi kondisi utama. Maka **else** digunakan untk menangani semua kondisi selain kondisi yang telah dituliskan.
 
 ![alt teks](4.png "Contoh gambar 4.0")
 
