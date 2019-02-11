@@ -8,19 +8,19 @@ Python memiliki statement **if**, **if..else**, dan **if..elif..else**.
 
 1. Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percabangan berupa **if** yaitu bila suatu kondisi tertentu tercapa maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
 
-[x] Berikut ini adalah contoh penggunaan **if** di Python:
+- [x] Berikut ini adalah contoh penggunaan **if** di Python:
 
 ![alt teks](2.png "Contoh gambar 2.0")
 
 2. Bila kondisi yang akan didefinisikan cukup banyak, Anda dapat menambah kondisi lain dengan menggunakan elif di bawah statement if dan sebelum statement else:
 
-[x] Berikut adalah contoh penggunaan **elif** di dalam kondisional Python:
+- [x] Berikut adalah contoh penggunaan **elif** di dalam kondisional Python:
 
 ![alt teks](3.png "Contoh gambar 3.0")
 
 3. Untuk memeriksa kondisi yang tidak memenuhi kondisi utama. Maka **else** digunakan untk menangani semua kondisi selain kondisi yang telah dituliskan.
 
-[x] Berikut adalah contoh penggunaan **else** di Python:
+- [x] Berikut adalah contoh penggunaan **else** di Python:
 
 ![alt teks](4.png "Contoh gambar 4.0")
 
