@@ -31,14 +31,14 @@ Berikut adalah contoh penggunaan else di dalam kondisional Python:
 
 Opertor ini terdiri dari:
 
-|**Operator|**Simbol|
--------------------------
-|Lebih Besar|>|
-|Lebih Kecil|<|
-|Sama Dengan|==|
-|Tidak Sama Dengan|!=|
-|Lebih Besar Sama dengan|>=|
-|Lebih Kecil Sama dengan|<=|
+| Operator|Simbol|
+| ----------|------------|
+| Lebih Besar|> |
+| Lebih Kecil|< |
+| Sama Dengan|== |
+| Tidak Sama Dengan|!= |
+| Lebih Besar Sama dengan|>= |
+| Lebih Kecil Sama dengan|<= |
 
 ## Operator Logika
 
@@ -46,8 +46,8 @@ Opertor ini terdiri dari:
 
 Operator logika terdiri dari:
 
-|**Nama|**Simbol di Python|
--------------------------------
-|Logika AND|and|
-|Logika OR|or|
-|Negasi/Kebalikan|not|
+| Nama| Simbol di Python |
+|-----|-------------------|
+| Logika AND|and |
+| Logika OR|or |
+| Negasi/Kebalikan|not |
